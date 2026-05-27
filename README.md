@@ -24,7 +24,7 @@ TARGET VARIABLE:
 
  TECHNOLOGIES USED:
 
- Python 🐍
+ Python 
  Pandas
  NumPy
  Scikit-learn
